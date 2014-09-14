@@ -1,4 +1,4 @@
-docpoetry
-=========
+dp
+==
 
-Documentary poetry submission form website
+Submission form website
